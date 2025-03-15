@@ -2,6 +2,6 @@ uss henry
 uss nevada
 ssn-774
 ins arihant
-Project 885
-HMS Victorious
-HMS Vigilant
+ins kalveri
+ins vela
+
